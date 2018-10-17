@@ -1,7 +1,4 @@
 ////
-////  SADIA HASAN
-////  CS368
-////  Project 2
 ////
 
 #include <OpenGL/gl.h>
