@@ -1,4 +1,4 @@
-//Peripheral Drift
+<b>Peripheral Drift</b>
 
 An optical illusion created by making 8 rings with specific characteristics and colors.
 
