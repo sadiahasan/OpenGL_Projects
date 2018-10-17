@@ -1,6 +1,4 @@
-////  Sadia Hasan
-////  CS368
-////  Project 1
+
 
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
